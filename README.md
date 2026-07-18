@@ -27,11 +27,11 @@ A simple command-line Habit Tracker built using Python and SQLite to help users 
 
 ## What I Learned
 
-* Python and SQLite integration
-* Database operations using SQL
-* Working with dates and streak calculations
+* Applying Python and SQL concepts in a real project
+* Working with SQLite databases in Python
 * Writing modular and maintainable code
-* Debugging and problem-solving while building projects
+* Implementing streak and consistency calculations
+* Debugging and handling edge cases
 
 ## 🚀 Future Improvements
 
